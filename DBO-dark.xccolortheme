@@ -30,6 +30,8 @@
 	<string>0.333905 0.358341 0.41846 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.639216 0.745098 0.54902 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.235137 0.253176 0.292863 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -107,7 +109,7 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.458824 0.709804 0.666667 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>1 1 1 1</string>
+		<string>0.565557 1 0.999375 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.980427 0.483012 0.0438586 1</string>
 		<key>xcode.syntax.identifier.variable</key>
@@ -130,51 +132,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>DroidSansMonoForPowerline - 14.0</string>
+		<string>DroidSansMonoDottedForPowerline - 11.0</string>
 	</dict>
 </dict>
 </plist>

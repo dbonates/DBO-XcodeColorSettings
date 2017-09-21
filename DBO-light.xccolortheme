@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.460378 0.734515 0.738504 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SFMono-Regular - 14.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.529657 0.569906 0.651914 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SFMono-Regular - 14.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.227683 0.711546 0.502745 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SFMono-Regular - 14.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.827278 0.568548 0.239877 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SFMono-Regular - 14.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.528734 0.569367 0.651317 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SFMono-Regular - 14.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.980392 0.980392 0.980392 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.901961 0.901961 0.901961 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.639216 0.745098 0.54902 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.235137 0.253176 0.292863 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.296326 0.312922 0.349434 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0.662745 0.717647 0.776471 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.AppleSystemUIFontItalic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.662745 0.717647 0.776471 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.156863 0.482353 0.870588 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.AppleSystemUIFont - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.662745 0.717647 0.776471 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.AppleSystemUIFont - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0.662745 0.717647 0.776471 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.AppleSystemUIFont - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0.662745 0.717647 0.776471 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0.662745 0.717647 0.776471 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.AppleSystemUIFont - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0.662745 0.717647 0.776471 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.AppleSystemUIFontBold - 10.0</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.9753 0.975271 0.975288 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.889442 0.889415 0.88943 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.752941 0.772549 0.807843 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.710197 0.848643 0.999339 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.87806 0.878034 0.878048 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.415686 0.623529 0.709804 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.956863 0.74902 0.458824 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.565926 0.648027 0.655514 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.565926 0.648027 0.655514 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.956863 0.74902 0.458824 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.582663 0.794292 0.165756 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.980427 0.483012 0.0438586 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.987055 0.21677 0.360707 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.415686 0.623529 0.709804 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.582663 0.794292 0.165756 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.415686 0.623529 0.709804 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.458824 0.709804 0.666667 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.458824 0.709804 0.666667 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.987055 0.21677 0.360707 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.980427 0.483012 0.0438586 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.987055 0.21677 0.360707 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.357149 0.730974 0.923303 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.472703 0.197358 0.647436 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.614311 0.394304 0.998774 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.135245 0.640406 0.579477 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.415686 0.623529 0.709804 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.866905 0.221653 0.492619 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.643137 0.521569 0.92549 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.character</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.number</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.string</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+		<key>xcode.syntax.url</key>
+		<string>DroidSansMonoDottedForPowerline - 13.0</string>
+	</dict>
+</dict>
+</plist>

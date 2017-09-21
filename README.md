@@ -2,11 +2,12 @@
 
 Just a personal choice, where I spend most of my working time :D
 
-![](img/demo.png)
+![Dark prefered theme](img/demo_dark.png)
+![Light theme for light times :D](img/demo_light.png)
 
 ## Installing
 
-1. copy the file `DBO.xccolortheme`;
+1. copy the file `DBO-light.xccolortheme` and `DBO-dark.xccolortheme`;
 
 2. then paste into this folder:
 
