@@ -1,4 +1,4 @@
-# Bonates Xcode Color Theme
+# Bonates Xcode Color Themes
 
 Just a personal choice, where I spend most of my working time :D
 
